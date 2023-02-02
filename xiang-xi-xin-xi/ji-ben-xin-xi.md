@@ -1,11 +1,32 @@
 # 💡 基本信息
 
-{% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
-{% endhint %}
+![我自己-正](/Users/even/Pictures/私人/我自己-正.jpg)
 
-## Video overview
+姓名：祝彭辉
 
-Got 2 minutes? Check out a video overview of our product:
+性别：男
 
-{% embed url="https://www.loom.com/embed/3bfa83acc9fd41b7b98b803ba9197d90" %}
+年龄：31
+
+民族：汉族
+
+籍贯：河南省周口市
+
+政治面貌：中共党员
+
+身高：170cm
+
+血型：B型
+
+学校：
+
+	- 济源职业技术学院（统招大专） - 电气自动化专业
+	- 郑州大学（自考本科） - 电子工程专业
+
+婚姻状况：已婚
+
+健康状况：健康
+
+工作所在地：北京市东城区
+
+邮箱地址：even.199010@gmail.com
